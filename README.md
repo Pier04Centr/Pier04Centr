@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Pier04Centr
+- 👀 I'm interested in the world of programming and fitness
+- 🌱 Currently I'm always learning new programming techniques and strategies especially in python
+- 📫 How to reach me:
+      - email: Centronepierpaolo@gmail.com
+      - whatsapp/telegram: 3701417460
+      - instagram: pierpaolo_centrone
