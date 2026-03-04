@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pierpaolo (@Pier04Centr)
 
-👀 I'm interested in the world of **programming** and **fitness**  
+👀 I'm interested in the world of **computer science** and **fitness**  
 🌱 Currently I'm always learning new programming techniques and strategies, especially in **Cyber Security**  
 📫 How to reach me:  
 - 📧 Email: [centronepierpaolo@gmail.com](mailto:centronepierpaolo@gmail.com)  
